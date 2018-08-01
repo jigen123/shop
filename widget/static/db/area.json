@@ -1,0 +1,3739 @@
+[
+    {
+        "name": "★热门城市",
+        "cities": [
+            {
+                "name": "北京市",
+                "tags": "BEIJING,北京市",
+                "cityid": 1
+            },
+            {
+                "name": "上海市",
+                "tags": "SHANGHAI,上海市",
+                "cityid": 10543
+            },
+            {
+                "name": "广州市",
+                "tags": "guangzhoushi,广州市",
+                "cityid": 28241
+            },
+            {
+                "name": "深圳市",
+                "tags": "shenzhengshi,深圳市",
+                "cityid": 28558
+            },
+            {
+                "name": "武汉市",
+                "tags": "wuhanshi,武汉市",
+                "cityid": 24023
+            }
+        ]
+    },
+    {
+        "name": "A",
+        "cities": [
+            {
+                "name": "安国市",
+                "tags": "anguoshi,安国市",
+                "cityid": 2114
+            },
+            {
+                "name": "阿尔山市",
+                "tags": "aershanshi,阿尔山市",
+                "cityid": 5629
+            },
+            {
+                "name": "鞍山市",
+                "tags": "anshanshi,鞍山市",
+                "cityid": 6266
+            },
+            {
+                "name": "安达市",
+                "tags": "andashi,安达市",
+                "cityid": 10401
+            },
+            {
+                "name": "安庆市",
+                "tags": "anqingshi,安庆市",
+                "cityid": 14687
+            },
+            {
+                "name": "安丘市",
+                "tags": "anqiushi,安丘市",
+                "cityid": 20155
+            },
+            {
+                "name": "安阳市",
+                "tags": "anyangshi,安阳市",
+                "cityid": 22058
+            },
+            {
+                "name": "安陆市",
+                "tags": "anlushi,安陆市",
+                "cityid": 24903
+            },
+            {
+                "name": "安顺市",
+                "tags": "anshunshi,安顺市",
+                "cityid": 38402
+            },
+            {
+                "name": "阿市乡",
+                "tags": "ashixiang,阿市乡",
+                "cityid": 38856
+            },
+            {
+                "name": "安宁市",
+                "tags": "anningshi,安宁市",
+                "cityid": 39701
+            },
+            {
+                "name": "安康市",
+                "tags": "ankangshi,安康市",
+                "cityid": 43379
+            },
+            {
+                "name": "阿克苏市",
+                "tags": "akesushi,阿克苏市",
+                "cityid": 46552
+            },
+            {
+                "name": "阿图什市",
+                "tags": "atushishi,阿图什市",
+                "cityid": 46689
+            },
+            {
+                "name": "阿勒泰市",
+                "tags": "aletaishi,阿勒泰市",
+                "cityid": 47375
+            },
+            {
+                "name": "阿拉尔市",
+                "tags": "alaershi,阿拉尔市",
+                "cityid": 47460
+            },
+            {
+                "name": "澳门特别行政区",
+                "tags": "aomentebiexingzhengqu,澳门特别行政区",
+                "cityid": 47495
+            }
+        ]
+    },
+    {
+        "name": "B",
+        "cities": [
+            {
+                "name": "北京市",
+                "tags": "beijingshi,北京市",
+                "cityid": 1
+            },
+            {
+                "name": "保定市",
+                "tags": "baodingshi,保定市",
+                "cityid": 1772
+            },
+            {
+                "name": "泊头市",
+                "tags": "botoushi,泊头市",
+                "cityid": 2772
+            },
+            {
+                "name": "霸州市",
+                "tags": "bazhoushi,霸州市",
+                "cityid": 2939
+            },
+            {
+                "name": "包头市",
+                "tags": "baotoushi,包头市",
+                "cityid": 4759
+            },
+            {
+                "name": "巴彦淖尔市",
+                "tags": "bayannaoershi,巴彦淖尔市",
+                "cityid": 5418
+            },
+            {
+                "name": "本溪市",
+                "tags": "benxishi,本溪市",
+                "cityid": 6476
+            },
+            {
+                "name": "北票市",
+                "tags": "beipiaoshi,北票市",
+                "cityid": 7322
+            },
+            {
+                "name": "白山市",
+                "tags": "baishanshi,白山市",
+                "cityid": 8144
+            },
+            {
+                "name": "白城市",
+                "tags": "baichengshi,白城市",
+                "cityid": 8333
+            },
+            {
+                "name": "北安市",
+                "tags": "beianshi,北安市",
+                "cityid": 10192
+            },
+            {
+                "name": "蚌埠市",
+                "tags": "bangbushi,蚌埠市",
+                "cityid": 14410
+            },
+            {
+                "name": "滨州市",
+                "tags": "binzhoushi,滨州市",
+                "cityid": 21123
+            },
+            {
+                "name": "板市乡",
+                "tags": "banshixiang,板市乡",
+                "cityid": 26075
+            },
+            {
+                "name": "白果市乡",
+                "tags": "baiguoshixiang,白果市乡",
+                "cityid": 27484
+            },
+            {
+                "name": "北海市",
+                "tags": "beihaishi,北海市",
+                "cityid": 30688
+            },
+            {
+                "name": "北流市",
+                "tags": "beiliushi,北流市",
+                "cityid": 31007
+            },
+            {
+                "name": "百色市",
+                "tags": "baiseshi,百色市",
+                "cityid": 31033
+            },
+            {
+                "name": "巴中市",
+                "tags": "bazhongshi,巴中市",
+                "cityid": 36299
+            },
+            {
+                "name": "毕节市",
+                "tags": "bijieshi,毕节市",
+                "cityid": 38817
+            },
+            {
+                "name": "保山市",
+                "tags": "baoshanshi,保山市",
+                "cityid": 39923
+            },
+            {
+                "name": "宝鸡市",
+                "tags": "baojishi,宝鸡市",
+                "cityid": 42119
+            },
+            {
+                "name": "白银市",
+                "tags": "baiyinshi,白银市",
+                "cityid": 43936
+            },
+            {
+                "name": "博乐市",
+                "tags": "boleshi,博乐市",
+                "cityid": 46381
+            },
+            {
+                "name": "兵团图木舒克市永安坝",
+                "tags": "bingtuantumushukeshiyonganba,兵团图木舒克市永安坝",
+                "cityid": 47485
+            }
+        ]
+    },
+    {
+        "name": "C",
+        "cities": [
+            {
+                "name": "承德市",
+                "tags": "chengdeshi,承德市",
+                "cityid": 2400
+            },
+            {
+                "name": "沧州市",
+                "tags": "cangzhoushi,沧州市",
+                "cityid": 2629
+            },
+            {
+                "name": "长治市",
+                "tags": "changzhishi,长治市",
+                "cityid": 3431
+            },
+            {
+                "name": "赤峰市",
+                "tags": "chifengshi,赤峰市",
+                "cityid": 4874
+            },
+            {
+                "name": "朝阳市",
+                "tags": "chaoyangshi,朝阳市",
+                "cityid": 7208
+            },
+            {
+                "name": "长春市",
+                "tags": "changchunshi,长春市",
+                "cityid": 7532
+            },
+            {
+                "name": "常州市",
+                "tags": "changzhoushi,常州市",
+                "cityid": 11245
+            },
+            {
+                "name": "常熟市",
+                "tags": "changshushi,常熟市",
+                "cityid": 11419
+            },
+            {
+                "name": "慈溪市",
+                "tags": "cixishi,慈溪市",
+                "cityid": 12941
+            },
+            {
+                "name": "滁州市",
+                "tags": "chuzhoushi,滁州市",
+                "cityid": 15005
+            },
+            {
+                "name": "程家市乡",
+                "tags": "chengjiashixiang,程家市乡",
+                "cityid": 15064
+            },
+            {
+                "name": "巢湖市",
+                "tags": "chaohushi,巢湖市",
+                "cityid": 15499
+            },
+            {
+                "name": "池州市",
+                "tags": "chizhoushi,池州市",
+                "cityid": 15871
+            },
+            {
+                "name": "长乐市",
+                "tags": "changleshi,长乐市",
+                "cityid": 16259
+            },
+            {
+                "name": "昌邑市",
+                "tags": "changyishi,昌邑市",
+                "cityid": 20200
+            },
+            {
+                "name": "长葛市",
+                "tags": "changgeshi,长葛市",
+                "cityid": 22745
+            },
+            {
+                "name": "赤壁市",
+                "tags": "chibishi,赤壁市",
+                "cityid": 25317
+            },
+            {
+                "name": "长沙市",
+                "tags": "changshashi,长沙市",
+                "cityid": 25580
+            },
+            {
+                "name": "常宁市",
+                "tags": "changningshi,常宁市",
+                "cityid": 26215
+            },
+            {
+                "name": "常德市",
+                "tags": "changdeshi,常德市",
+                "cityid": 26683
+            },
+            {
+                "name": "郴州市",
+                "tags": "chenzhoushi,郴州市",
+                "cityid": 27147
+            },
+            {
+                "name": "从化市",
+                "tags": "conghuashi,从化市",
+                "cityid": 28409
+            },
+            {
+                "name": "潮州市",
+                "tags": "chaozhoushi,潮州市",
+                "cityid": 29915
+            },
+            {
+                "name": "潮州市潮安县",
+                "tags": "chaozhoushichaoanxian,潮州市潮安县",
+                "cityid": 29930
+            },
+            {
+                "name": "潮州市饶平县",
+                "tags": "chaozhoushiraopingxian,潮州市饶平县",
+                "cityid": 29954
+            },
+            {
+                "name": "崇左市",
+                "tags": "chongzuoshi,崇左市",
+                "cityid": 31478
+            },
+            {
+                "name": "成都市",
+                "tags": "chengdushi,成都市",
+                "cityid": 33008
+            },
+            {
+                "name": "崇州市",
+                "tags": "chongzhoushi,崇州市",
+                "cityid": 33318
+            },
+            {
+                "name": "赤水市",
+                "tags": "chishuishi,赤水市",
+                "cityid": 38364
+            },
+            {
+                "name": "楚雄市",
+                "tags": "chuxiongshi,楚雄市",
+                "cityid": 40442
+            },
+            {
+                "name": "昌吉市",
+                "tags": "changjishi,昌吉市",
+                "cityid": 46256
+            }
+        ]
+    },
+    {
+        "name": "D",
+        "cities": [
+            {
+                "name": "定州市",
+                "tags": "dingzhoushi,定州市",
+                "cityid": 2088
+            },
+            {
+                "name": "大同市",
+                "tags": "datongshi,大同市",
+                "cityid": 3224
+            },
+            {
+                "name": "大连市",
+                "tags": "dalianshi,大连市",
+                "cityid": 6088
+            },
+            {
+                "name": "丹东市",
+                "tags": "dandongshi,丹东市",
+                "cityid": 6542
+            },
+            {
+                "name": "东港市",
+                "tags": "donggangshi,东港市",
+                "cityid": 6596
+            },
+            {
+                "name": "大石桥市",
+                "tags": "dashiqiaoshi,大石桥市",
+                "cityid": 6832
+            },
+            {
+                "name": "灯塔市",
+                "tags": "dengtashi,灯塔市",
+                "cityid": 7007
+            },
+            {
+                "name": "调兵山市",
+                "tags": "diaobingshanshi,调兵山市",
+                "cityid": 7180
+            },
+            {
+                "name": "德惠市",
+                "tags": "dehuishi,德惠市",
+                "cityid": 7687
+            },
+            {
+                "name": "大安市",
+                "tags": "daanshi,大安市",
+                "cityid": 8420
+            },
+            {
+                "name": "敦化市",
+                "tags": "dunhuashi,敦化市",
+                "cityid": 8464
+            },
+            {
+                "name": "敦化市林业局",
+                "tags": "dunhuashilinyeju,敦化市林业局",
+                "cityid": 8488
+            },
+            {
+                "name": "大庆市",
+                "tags": "daqingshi,大庆市",
+                "cityid": 9419
+            },
+            {
+                "name": "东台市",
+                "tags": "dongtaishi,东台市",
+                "cityid": 12083
+            },
+            {
+                "name": "大丰市",
+                "tags": "dafengshi,大丰市",
+                "cityid": 12117
+            },
+            {
+                "name": "丹阳市",
+                "tags": "danyangshi,丹阳市",
+                "cityid": 12282
+            },
+            {
+                "name": "东阳市",
+                "tags": "dongyangshi,东阳市",
+                "cityid": 13692
+            },
+            {
+                "name": "德兴市",
+                "tags": "dexingshi,德兴市",
+                "cityid": 19265
+            },
+            {
+                "name": "东营市",
+                "tags": "dongyingshi,东营市",
+                "cityid": 19796
+            },
+            {
+                "name": "德州市",
+                "tags": "dezhoushi,德州市",
+                "cityid": 20836
+            },
+            {
+                "name": "登封市",
+                "tags": "dengfengshi,登封市",
+                "cityid": 21558
+            },
+            {
+                "name": "邓州市",
+                "tags": "dengzhoushi,邓州市",
+                "cityid": 23140
+            },
+            {
+                "name": "大冶市",
+                "tags": "dayeshi,大冶市",
+                "cityid": 24273
+            },
+            {
+                "name": "丹江口市",
+                "tags": "danjiangkoushi,丹江口市",
+                "cityid": 24435
+            },
+            {
+                "name": "当阳市",
+                "tags": "dangyangshi,当阳市",
+                "cityid": 24559
+            },
+            {
+                "name": "大市乡",
+                "tags": "dashixiang,大市乡",
+                "cityid": 26213
+            },
+            {
+                "name": "洞市乡",
+                "tags": "dongshixiang,洞市乡",
+                "cityid": 26823
+            },
+            {
+                "name": "东莞市",
+                "tags": "dongshi,东莞市",
+                "cityid": 29855
+            },
+            {
+                "name": "东兴市",
+                "tags": "dongxingshi,东兴市",
+                "cityid": 30758
+            },
+            {
+                "name": "东方市",
+                "tags": "dongfangshi,东方市",
+                "cityid": 31738
+            },
+            {
+                "name": "都江堰市",
+                "tags": "dujiangyanshi,都江堰市",
+                "cityid": 33252
+            },
+            {
+                "name": "德阳市",
+                "tags": "deyangshi,德阳市",
+                "cityid": 33681
+            },
+            {
+                "name": "达州市",
+                "tags": "dazhoushi,达州市",
+                "cityid": 35813
+            },
+            {
+                "name": "都匀市",
+                "tags": "duyunshi,都匀市",
+                "cityid": 39303
+            },
+            {
+                "name": "大理市",
+                "tags": "dalishi,大理市",
+                "cityid": 40853
+            },
+            {
+                "name": "敦煌市",
+                "tags": "dunhuangshi,敦煌市",
+                "cityid": 44557
+            },
+            {
+                "name": "定西市",
+                "tags": "dingxishi,定西市",
+                "cityid": 44699
+            },
+            {
+                "name": "德令哈市",
+                "tags": "delinghashi,德令哈市",
+                "cityid": 45714
+            }
+        ]
+    },
+    {
+        "name": "E",
+        "cities": [
+            {
+                "name": "鄂尔多斯市",
+                "tags": "eerduosishi,鄂尔多斯市",
+                "cityid": 5162
+            },
+            {
+                "name": "额尔古纳市",
+                "tags": "eergunashi,额尔古纳市",
+                "cityid": 5397
+            },
+            {
+                "name": "二连浩特市",
+                "tags": "erlianhaoteshi,二连浩特市",
+                "cityid": 5703
+            },
+            {
+                "name": "鄂州市",
+                "tags": "ezhoushi,鄂州市",
+                "cityid": 24706
+            },
+            {
+                "name": "恩施市",
+                "tags": "enshishi,恩施市",
+                "cityid": 25389
+            },
+            {
+                "name": "恩平市",
+                "tags": "enpingshi,恩平市",
+                "cityid": 28867
+            },
+            {
+                "name": "峨眉山市",
+                "tags": "emeishanshi,峨眉山市",
+                "cityid": 34840
+            }
+        ]
+    },
+    {
+        "name": "F",
+        "cities": [
+            {
+                "name": "汾阳市",
+                "tags": "fenyangshi,汾阳市",
+                "cityid": 4655
+            },
+            {
+                "name": "抚顺市",
+                "tags": "fushunshi,抚顺市",
+                "cityid": 6384
+            },
+            {
+                "name": "凤城市",
+                "tags": "fengchengshi,凤城市",
+                "cityid": 6621
+            },
+            {
+                "name": "阜新市",
+                "tags": "fuxinshi,阜新市",
+                "cityid": 6851
+            },
+            {
+                "name": "富锦市",
+                "tags": "fujinshi,富锦市",
+                "cityid": 9907
+            },
+            {
+                "name": "富阳市",
+                "tags": "fuyangshi,富阳市",
+                "cityid": 12760
+            },
+            {
+                "name": "奉化市",
+                "tags": "fenghuashi,奉化市",
+                "cityid": 12962
+            },
+            {
+                "name": "阜阳市",
+                "tags": "fuyangshi,阜阳市",
+                "cityid": 15194
+            },
+            {
+                "name": "福州市",
+                "tags": "fuzhoushi,福州市",
+                "cityid": 16069
+            },
+            {
+                "name": "福清市",
+                "tags": "fuqingshi,福清市",
+                "cityid": 16232
+            },
+            {
+                "name": "福安市",
+                "tags": "fuanshi,福安市",
+                "cityid": 17316
+            },
+            {
+                "name": "福鼎市",
+                "tags": "fudingshi,福鼎市",
+                "cityid": 17341
+            },
+            {
+                "name": "丰城市",
+                "tags": "fengchengshi,丰城市",
+                "cityid": 18741
+            },
+            {
+                "name": "丰城市工业园",
+                "tags": "fengchengshigongyeyuan,丰城市工业园",
+                "cityid": 18776
+            },
+            {
+                "name": "抚州市",
+                "tags": "fuzhoushi,抚州市",
+                "cityid": 18829
+            },
+            {
+                "name": "肥城市",
+                "tags": "feichengshi,肥城市",
+                "cityid": 20465
+            },
+            {
+                "name": "枫林市乡",
+                "tags": "fenglinshixiang,枫林市乡",
+                "cityid": 25909
+            },
+            {
+                "name": "汾市乡",
+                "tags": "fenshixiang,汾市乡",
+                "cityid": 27310
+            },
+            {
+                "name": "佛山市",
+                "tags": "foshanshi,佛山市",
+                "cityid": 28737
+            },
+            {
+                "name": "防城港市",
+                "tags": "fangchenggangshi,防城港市",
+                "cityid": 30724
+            },
+            {
+                "name": "福泉市",
+                "tags": "fuquanshi,福泉市",
+                "cityid": 39327
+            },
+            {
+                "name": "阜康市",
+                "tags": "fukangshi,阜康市",
+                "cityid": 46275
+            }
+        ]
+    },
+    {
+        "name": "G",
+        "cities": [
+            {
+                "name": "高碑店市",
+                "tags": "gaobeidianshi,高碑店市",
+                "cityid": 2126
+            },
+            {
+                "name": "古交市",
+                "tags": "gujiaoshi,古交市",
+                "cityid": 3209
+            },
+            {
+                "name": "高平市",
+                "tags": "gaopingshi,高平市",
+                "cityid": 3673
+            },
+            {
+                "name": "根河市",
+                "tags": "genheshi,根河市",
+                "cityid": 5410
+            },
+            {
+                "name": "盖州市",
+                "tags": "gaizhoushi,盖州市",
+                "cityid": 6804
+            },
+            {
+                "name": "公主岭市",
+                "tags": "gongzhulingshi,公主岭市",
+                "cityid": 7933
+            },
+            {
+                "name": "高邮市",
+                "tags": "gaoyoushi,高邮市",
+                "cityid": 12212
+            },
+            {
+                "name": "高市乡",
+                "tags": "gaoshixiang,高市乡",
+                "cityid": 18571
+            },
+            {
+                "name": "贵溪市",
+                "tags": "guixishi,贵溪市",
+                "cityid": 17966
+            },
+            {
+                "name": "赣州市",
+                "tags": "ganzhoushi,赣州市",
+                "cityid": 17999
+            },
+            {
+                "name": "高安市",
+                "tags": "gaoanshi,高安市",
+                "cityid": 18799
+            },
+            {
+                "name": "高安市新世纪工业城管委会",
+                "tags": "gaoanshixinshijigongyechengguanweihui,高安市新世纪工业城管委会",
+                "cityid": 18828
+            },
+            {
+                "name": "高密市",
+                "tags": "gaomishi,高密市",
+                "cityid": 20179
+            },
+            {
+                "name": "巩义市",
+                "tags": "gongyishi,巩义市",
+                "cityid": 21487
+            },
+            {
+                "name": "广水市",
+                "tags": "guangshuishi,广水市",
+                "cityid": 25367
+            },
+            {
+                "name": "关市乡",
+                "tags": "guanshixiang,关市乡",
+                "cityid": 26068
+            },
+            {
+                "name": "广州市",
+                "tags": "guangzhoushi,广州市",
+                "cityid": 28241
+            },
+            {
+                "name": "高州市",
+                "tags": "gaozhoushi,高州市",
+                "cityid": 29075
+            },
+            {
+                "name": "高要市",
+                "tags": "gaoyaoshi,高要市",
+                "cityid": 29248
+            },
+            {
+                "name": "广西壮族自治区",
+                "tags": "guangxizhuangzuzizhiqu,广西壮族自治区",
+                "cityid": 30164
+            },
+            {
+                "name": "桂林市",
+                "tags": "guilinshi,桂林市",
+                "cityid": 30448
+            },
+            {
+                "name": "贵港市",
+                "tags": "guigangshi,贵港市",
+                "cityid": 30834
+            },
+            {
+                "name": "桂平市",
+                "tags": "guipingshi,桂平市",
+                "cityid": 30888
+            },
+            {
+                "name": "广汉市",
+                "tags": "guanghanshi,广汉市",
+                "cityid": 33758
+            },
+            {
+                "name": "广元市",
+                "tags": "guangyuanshi,广元市",
+                "cityid": 34120
+            },
+            {
+                "name": "广安市",
+                "tags": "guanganshi,广安市",
+                "cityid": 35625
+            },
+            {
+                "name": "拱市乡",
+                "tags": "gongshixiang,拱市乡",
+                "cityid": 36073
+            },
+            {
+                "name": "贵阳市",
+                "tags": "guiyangshi,贵阳市",
+                "cityid": 37907
+            },
+            {
+                "name": "个旧市",
+                "tags": "gejiushi,个旧市",
+                "cityid": 40556
+            },
+            {
+                "name": "格尔木市",
+                "tags": "geermushi,格尔木市",
+                "cityid": 45702
+            },
+            {
+                "name": "固原市",
+                "tags": "guyuanshi,固原市",
+                "cityid": 45926
+            }
+        ]
+    },
+    {
+        "name": "H",
+        "cities": [
+            {
+                "name": "邯郸市",
+                "tags": "handanshi,邯郸市",
+                "cityid": 1291
+            },
+            {
+                "name": "黄骅市",
+                "tags": "huangshi,黄骅市",
+                "cityid": 2809
+            },
+            {
+                "name": "河间市",
+                "tags": "hejianshi,河间市",
+                "cityid": 2828
+            },
+            {
+                "name": "衡水市",
+                "tags": "hengshuishi,衡水市",
+                "cityid": 2968
+            },
+            {
+                "name": "河津市",
+                "tags": "hejinshi,河津市",
+                "cityid": 4082
+            },
+            {
+                "name": "侯马市",
+                "tags": "houmashi,侯马市",
+                "cityid": 4472
+            },
+            {
+                "name": "霍州市",
+                "tags": "huozhoushi,霍州市",
+                "cityid": 4481
+            },
+            {
+                "name": "呼和浩特市",
+                "tags": "huhehaoteshi,呼和浩特市",
+                "cityid": 4671
+            },
+            {
+                "name": "霍林郭勒市",
+                "tags": "huolinguoleshi,霍林郭勒市",
+                "cityid": 5155
+            },
+            {
+                "name": "呼伦贝尔市",
+                "tags": "hulunbeiershi,呼伦贝尔市",
+                "cityid": 5236
+            },
+            {
+                "name": "海城市",
+                "tags": "haichengshi,海城市",
+                "cityid": 6354
+            },
+            {
+                "name": "葫芦岛市",
+                "tags": "huludaoshi,葫芦岛市",
+                "cityid": 7391
+            },
+            {
+                "name": "和龙市",
+                "tags": "helongshi,和龙市",
+                "cityid": 8515
+            },
+            {
+                "name": "和龙市林业局",
+                "tags": "helongshilinyeju,和龙市林业局",
+                "cityid": 8529
+            },
+            {
+                "name": "哈尔滨市",
+                "tags": "haerbinshi,哈尔滨市",
+                "cityid": 8559
+            },
+            {
+                "name": "虎林市",
+                "tags": "hulinshi,虎林市",
+                "cityid": 9178
+            },
+            {
+                "name": "鹤岗市",
+                "tags": "hegangshi,鹤岗市",
+                "cityid": 9222
+            },
+            {
+                "name": "鹤岗市林业局",
+                "tags": "hegangshilinyeju,鹤岗市林业局",
+                "cityid": 9259
+            },
+            {
+                "name": "海林市",
+                "tags": "hailinshi,海林市",
+                "cityid": 10039
+            },
+            {
+                "name": "黑河市",
+                "tags": "heiheshi,黑河市",
+                "cityid": 10084
+            },
+            {
+                "name": "海伦市",
+                "tags": "hailunshi,海伦市",
+                "cityid": 10452
+            },
+            {
+                "name": "海门市",
+                "tags": "haimenshi,海门市",
+                "cityid": 11627
+            },
+            {
+                "name": "海门市农科所",
+                "tags": "haimenshinongkesuo,海门市农科所",
+                "cityid": 11659
+            },
+            {
+                "name": "海门市财政局芦荡管理所",
+                "tags": "haimenshicaizhengjuludangguanlisuo,海门市财政局芦荡管理所",
+                "cityid": 11661
+            },
+            {
+                "name": "淮安市",
+                "tags": "huaianshi,淮安市",
+                "cityid": 11786
+            },
+            {
+                "name": "杭州市",
+                "tags": "hangzhoushi,杭州市",
+                "cityid": 12597
+            },
+            {
+                "name": "海宁市",
+                "tags": "hainingshi,海宁市",
+                "cityid": 13325
+            },
+            {
+                "name": "湖州市",
+                "tags": "huzhoushi,湖州市",
+                "cityid": 13364
+            },
+            {
+                "name": "合肥市",
+                "tags": "hefeishi,合肥市",
+                "cityid": 14235
+            },
+            {
+                "name": "淮南市",
+                "tags": "huainanshi,淮南市",
+                "cityid": 14500
+            },
+            {
+                "name": "淮北市",
+                "tags": "huaibeishi,淮北市",
+                "cityid": 14612
+            },
+            {
+                "name": "黄山市",
+                "tags": "huangshanshi,黄山市",
+                "cityid": 14887
+            },
+            {
+                "name": "海阳市",
+                "tags": "haiyangshi,海阳市",
+                "cityid": 19996
+            },
+            {
+                "name": "菏泽市",
+                "tags": "hezeshi,菏泽市",
+                "cityid": 21218
+            },
+            {
+                "name": "鹤壁市",
+                "tags": "hebishi,鹤壁市",
+                "cityid": 22206
+            },
+            {
+                "name": "辉县市",
+                "tags": "huixianshi,辉县市",
+                "cityid": 22400
+            },
+            {
+                "name": "黄石市",
+                "tags": "huangshishi,黄石市",
+                "cityid": 24224
+            },
+            {
+                "name": "汉川市",
+                "tags": "hanchuanshi,汉川市",
+                "cityid": 24920
+            },
+            {
+                "name": "洪湖市",
+                "tags": "honghushi,洪湖市",
+                "cityid": 25048
+            },
+            {
+                "name": "黄冈市",
+                "tags": "huanggangshi,黄冈市",
+                "cityid": 25086
+            },
+            {
+                "name": "衡阳市",
+                "tags": "hengyangshi,衡阳市",
+                "cityid": 26001
+            },
+            {
+                "name": "衡阳市农科所",
+                "tags": "hengyangshinongkesuo,衡阳市农科所",
+                "cityid": 26109
+            },
+            {
+                "name": "黄市乡",
+                "tags": "huangshixiang,黄市乡",
+                "cityid": 26642
+            },
+            {
+                "name": "禾市乡",
+                "tags": "heshixiang,禾市乡",
+                "cityid": 27377
+            },
+            {
+                "name": "怀化市",
+                "tags": "huaihuashi,怀化市",
+                "cityid": 27650
+            },
+            {
+                "name": "洪江市",
+                "tags": "hongjiangshi,洪江市",
+                "cityid": 27930
+            },
+            {
+                "name": "鹤山市",
+                "tags": "heshanshi,鹤山市",
+                "cityid": 28853
+            },
+            {
+                "name": "化州市",
+                "tags": "huazhoushi,化州市",
+                "cityid": 29107
+            },
+            {
+                "name": "惠州市",
+                "tags": "huizhoushi,惠州市",
+                "cityid": 29282
+            },
+            {
+                "name": "河源市",
+                "tags": "heyuanshi,河源市",
+                "cityid": 29568
+            },
+            {
+                "name": "贺州市",
+                "tags": "hezhoushi,贺州市",
+                "cityid": 31184
+            },
+            {
+                "name": "河池市",
+                "tags": "hechishi,河池市",
+                "cityid": 31249
+            },
+            {
+                "name": "合山市",
+                "tags": "heshanshi,合山市",
+                "cityid": 31474
+            },
+            {
+                "name": "海口市",
+                "tags": "haikoushi,海口市",
+                "cityid": 31564
+            },
+            {
+                "name": "华蓥市",
+                "tags": "huashi,华蓥市",
+                "cityid": 35799
+            },
+            {
+                "name": "韩城市",
+                "tags": "hanchengshi,韩城市",
+                "cityid": 42674
+            },
+            {
+                "name": "华阴市",
+                "tags": "huayinshi,华阴市",
+                "cityid": 42691
+            },
+            {
+                "name": "汉中市",
+                "tags": "hanzhongshi,汉中市",
+                "cityid": 42888
+            },
+            {
+                "name": "合作市",
+                "tags": "hezuoshi,合作市",
+                "cityid": 45175
+            },
+            {
+                "name": "哈密市",
+                "tags": "hamishi,哈密市",
+                "cityid": 46198
+            },
+            {
+                "name": "和田市",
+                "tags": "hetianshi,和田市",
+                "cityid": 46958
+            }
+        ]
+    },
+    {
+        "name": "I"
+    },
+    {
+        "name": "J",
+        "cities": [
+            {
+                "name": "晋州市",
+                "tags": "jinzhoushi,晋州市",
+                "cityid": 898
+            },
+            {
+                "name": "冀州市",
+                "tags": "jizhoushi,冀州市",
+                "cityid": 3071
+            },
+            {
+                "name": "晋城市",
+                "tags": "jinchengshi,晋城市",
+                "cityid": 3597
+            },
+            {
+                "name": "晋中市",
+                "tags": "jinzhongshi,晋中市",
+                "cityid": 3776
+            },
+            {
+                "name": "介休市",
+                "tags": "jiexiushi,介休市",
+                "cityid": 3908
+            },
+            {
+                "name": "锦州市",
+                "tags": "jinzhoushi,锦州市",
+                "cityid": 6643
+            },
+            {
+                "name": "九台市",
+                "tags": "jiutaishi,九台市",
+                "cityid": 7642
+            },
+            {
+                "name": "吉林市",
+                "tags": "jilinshi,吉林市",
+                "cityid": 7706
+            },
+            {
+                "name": "集安市",
+                "tags": "jianshi,集安市",
+                "cityid": 8129
+            },
+            {
+                "name": "鸡西市",
+                "tags": "jixishi,鸡西市",
+                "cityid": 9117
+            },
+            {
+                "name": "佳木斯市",
+                "tags": "jiamusishi,佳木斯市",
+                "cityid": 9785
+            },
+            {
+                "name": "江阴市",
+                "tags": "jiangyinshi,江阴市",
+                "cityid": 11018
+            },
+            {
+                "name": "金坛市",
+                "tags": "jintanshi,金坛市",
+                "cityid": 11331
+            },
+            {
+                "name": "江都市",
+                "tags": "jiangdushi,江都市",
+                "cityid": 12235
+            },
+            {
+                "name": "句容市",
+                "tags": "jurongshi,句容市",
+                "cityid": 12312
+            },
+            {
+                "name": "句容市浮山果园",
+                "tags": "jurongshifushanguoyuan,句容市浮山果园",
+                "cityid": 12334
+            },
+            {
+                "name": "靖江市",
+                "tags": "jingjiangshi,靖江市",
+                "cityid": 12407
+            },
+            {
+                "name": "姜堰市",
+                "tags": "jiangyanshi,姜堰市",
+                "cityid": 12450
+            },
+            {
+                "name": "建德市",
+                "tags": "jiandeshi,建德市",
+                "cityid": 12743
+            },
+            {
+                "name": "嘉兴市",
+                "tags": "jiaxingshi,嘉兴市",
+                "cityid": 13280
+            },
+            {
+                "name": "金华市",
+                "tags": "jinhuashi,金华市",
+                "cityid": 13564
+            },
+            {
+                "name": "江山市",
+                "tags": "jiangshanshi,江山市",
+                "cityid": 13818
+            },
+            {
+                "name": "界首市",
+                "tags": "jieshoushi,界首市",
+                "cityid": 15359
+            },
+            {
+                "name": "晋江市",
+                "tags": "jinjiangshi,晋江市",
+                "cityid": 16703
+            },
+            {
+                "name": "建瓯市",
+                "tags": "jianshi,建瓯市",
+                "cityid": 17044
+            },
+            {
+                "name": "建阳市",
+                "tags": "jianyangshi,建阳市",
+                "cityid": 17063
+            },
+            {
+                "name": "九江市",
+                "tags": "jiujiangshi,九江市",
+                "cityid": 17651
+            },
+            {
+                "name": "吉安市",
+                "tags": "jianshi,吉安市",
+                "cityid": 18330
+            },
+            {
+                "name": "井冈山市",
+                "tags": "jinggangshanshi,井冈山市",
+                "cityid": 18575
+            },
+            {
+                "name": "济南市",
+                "tags": "jinanshi,济南市",
+                "cityid": 19281
+            },
+            {
+                "name": "胶州市",
+                "tags": "jiaozhoushi,胶州市",
+                "cityid": 19497
+            },
+            {
+                "name": "即墨市",
+                "tags": "jimoshi,即墨市",
+                "cityid": 19516
+            },
+            {
+                "name": "胶南市",
+                "tags": "jiaonanshi,胶南市",
+                "cityid": 19572
+            },
+            {
+                "name": "济宁市",
+                "tags": "jiningshi,济宁市",
+                "cityid": 20216
+            },
+            {
+                "name": "焦作市",
+                "tags": "jiaozuoshi,焦作市",
+                "cityid": 22423
+            },
+            {
+                "name": "济源市",
+                "tags": "jiyuanshi,济源市",
+                "cityid": 22515
+            },
+            {
+                "name": "荆门市",
+                "tags": "jingmenshi,荆门市",
+                "cityid": 24737
+            },
+            {
+                "name": "荆州市",
+                "tags": "jingzhoushi,荆州市",
+                "cityid": 24949
+            },
+            {
+                "name": "津市市",
+                "tags": "jinshishi,津市市",
+                "cityid": 26912
+            },
+            {
+                "name": "吉首市",
+                "tags": "jishoushi,吉首市",
+                "cityid": 28066
+            },
+            {
+                "name": "贾市乡",
+                "tags": "jiashixiang,贾市乡",
+                "cityid": 28233
+            },
+            {
+                "name": "江门市",
+                "tags": "jiangmenshi,江门市",
+                "cityid": 28785
+            },
+            {
+                "name": "揭阳市",
+                "tags": "jieyangshi,揭阳市",
+                "cityid": 29977
+            },
+            {
+                "name": "江油市",
+                "tags": "jiangyoushi,江油市",
+                "cityid": 34075
+            },
+            {
+                "name": "简阳市",
+                "tags": "jianyangshi,简阳市",
+                "cityid": 36623
+            },
+            {
+                "name": "景洪市",
+                "tags": "jinghongshi,景洪市",
+                "cityid": 40817
+            },
+            {
+                "name": "嘉峪关市",
+                "tags": "jiayuguanshi,嘉峪关市",
+                "cityid": 43904
+            },
+            {
+                "name": "金昌市",
+                "tags": "jinchangshi,金昌市",
+                "cityid": 43914
+            },
+            {
+                "name": "酒泉市",
+                "tags": "jiuquanshi,酒泉市",
+                "cityid": 44477
+            }
+        ]
+    },
+    {
+        "name": "K",
+        "cities": [
+            {
+                "name": "开原市",
+                "tags": "kaiyuanshi,开原市",
+                "cityid": 7186
+            },
+            {
+                "name": "昆山市",
+                "tags": "kunshanshi,昆山市",
+                "cityid": 11448
+            },
+            {
+                "name": "开封市",
+                "tags": "kaifengshi,开封市",
+                "cityid": 21575
+            },
+            {
+                "name": "开平市",
+                "tags": "kaipingshi,开平市",
+                "cityid": 28837
+            },
+            {
+                "name": "凯里市",
+                "tags": "kailishi,凯里市",
+                "cityid": 39076
+            },
+            {
+                "name": "昆明市",
+                "tags": "kunmingshi,昆明市",
+                "cityid": 39557
+            },
+            {
+                "name": "开远市",
+                "tags": "kaiyuanshi,开远市",
+                "cityid": 40567
+            },
+            {
+                "name": "克拉玛依市",
+                "tags": "kelamayishi,克拉玛依市",
+                "cityid": 46138
+            },
+            {
+                "name": "库尔勒市",
+                "tags": "kuerleshi,库尔勒市",
+                "cityid": 46423
+            },
+            {
+                "name": "库尔勒市兰干乡",
+                "tags": "kuerleshilanganxiang,库尔勒市兰干乡",
+                "cityid": 46434
+            },
+            {
+                "name": "库尔勒市托布力其乡",
+                "tags": "kuerleshituobuliqixiang,库尔勒市托布力其乡",
+                "cityid": 46438
+            },
+            {
+                "name": "喀什市",
+                "tags": "kashishi,喀什市",
+                "cityid": 46748
+            },
+            {
+                "name": "奎屯市",
+                "tags": "kuitunshi,奎屯市",
+                "cityid": 47091
+            }
+        ]
+    },
+    {
+        "name": "L",
+        "cities": [
+            {
+                "name": "鹿泉市",
+                "tags": "luquanshi,鹿泉市",
+                "cityid": 922
+            },
+            {
+                "name": "廊坊市",
+                "tags": "langfangshi,廊坊市",
+                "cityid": 2849
+            },
+            {
+                "name": "潞城市",
+                "tags": "luchengshi,潞城市",
+                "cityid": 3587
+            },
+            {
+                "name": "临汾市",
+                "tags": "linfenshi,临汾市",
+                "cityid": 4304
+            },
+            {
+                "name": "吕梁市",
+                "tags": "lvliangshi,吕梁市",
+                "cityid": 4494
+            },
+            {
+                "name": "凌海市",
+                "tags": "linghaishi,凌海市",
+                "cityid": 6725
+            },
+            {
+                "name": "辽阳市",
+                "tags": "liaoyangshi,辽阳市",
+                "cityid": 6955
+            },
+            {
+                "name": "凌源市",
+                "tags": "lingyuanshi,凌源市",
+                "cityid": 7360
+            },
+            {
+                "name": "辽源市",
+                "tags": "liaoyuanshi,辽源市",
+                "cityid": 7986
+            },
+            {
+                "name": "临江市",
+                "tags": "linjiangshi,临江市",
+                "cityid": 8202
+            },
+            {
+                "name": "龙井市",
+                "tags": "longjingshi,龙井市",
+                "cityid": 8504
+            },
+            {
+                "name": "连云港市",
+                "tags": "lianyungangshi,连云港市",
+                "cityid": 11663
+            },
+            {
+                "name": "临安市",
+                "tags": "linanshi,临安市",
+                "cityid": 12786
+            },
+            {
+                "name": "乐清市",
+                "tags": "leqingshi,乐清市",
+                "cityid": 13248
+            },
+            {
+                "name": "兰溪市",
+                "tags": "lanxishi,兰溪市",
+                "cityid": 13662
+            },
+            {
+                "name": "临海市",
+                "tags": "linhaishi,临海市",
+                "cityid": 14013
+            },
+            {
+                "name": "丽水市",
+                "tags": "lishuishi,丽水市",
+                "cityid": 14033
+            },
+            {
+                "name": "龙泉市",
+                "tags": "longquanshi,龙泉市",
+                "cityid": 14214
+            },
+            {
+                "name": "六安市",
+                "tags": "liuanshi,六安市",
+                "cityid": 15586
+            },
+            {
+                "name": "龙海市",
+                "tags": "longhaishi,龙海市",
+                "cityid": 16899
+            },
+            {
+                "name": "龙岩市",
+                "tags": "longyanshi,龙岩市",
+                "cityid": 17077
+            },
+            {
+                "name": "乐平市",
+                "tags": "lepingshi,乐平市",
+                "cityid": 17568
+            },
+            {
+                "name": "六市乡",
+                "tags": "liushixiang,六市乡",
+                "cityid": 17626
+            },
+            {
+                "name": "辽市乡",
+                "tags": "liaoshixiang,辽市乡",
+                "cityid": 18625
+            },
+            {
+                "name": "莱西市",
+                "tags": "laixishi,莱西市",
+                "cityid": 19590
+            },
+            {
+                "name": "龙口市",
+                "tags": "longkoushi,龙口市",
+                "cityid": 19902
+            },
+            {
+                "name": "莱阳市",
+                "tags": "laiyangshi,莱阳市",
+                "cityid": 19916
+            },
+            {
+                "name": "莱州市",
+                "tags": "laizhoushi,莱州市",
+                "cityid": 19935
+            },
+            {
+                "name": "莱芜市",
+                "tags": "laiwushi,莱芜市",
+                "cityid": 20618
+            },
+            {
+                "name": "临沂市",
+                "tags": "linyishi,临沂市",
+                "cityid": 20642
+            },
+            {
+                "name": "乐陵市",
+                "tags": "lelingshi,乐陵市",
+                "cityid": 20952
+            },
+            {
+                "name": "聊城市",
+                "tags": "liaochengshi,聊城市",
+                "cityid": 20981
+            },
+            {
+                "name": "临清市",
+                "tags": "linqingshi,临清市",
+                "cityid": 21106
+            },
+            {
+                "name": "洛阳市",
+                "tags": "luoyangshi,洛阳市",
+                "cityid": 21711
+            },
+            {
+                "name": "林州市",
+                "tags": "linzhoushi,林州市",
+                "cityid": 22185
+            },
+            {
+                "name": "灵宝市",
+                "tags": "lingbaoshi,灵宝市",
+                "cityid": 22893
+            },
+            {
+                "name": "老河口市",
+                "tags": "laohekoushi,老河口市",
+                "cityid": 24659
+            },
+            {
+                "name": "利川市",
+                "tags": "lichuanshi,利川市",
+                "cityid": 25406
+            },
+            {
+                "name": "临湘市",
+                "tags": "linxiangshi,临湘市",
+                "cityid": 26657
+            },
+            {
+                "name": "龙形市乡",
+                "tags": "longxingshixiang,龙形市乡",
+                "cityid": 27280
+            },
+            {
+                "name": "龙市乡",
+                "tags": "longshixiang,龙市乡",
+                "cityid": 27375
+            },
+            {
+                "name": "兰市乡",
+                "tags": "lanshixiang,兰市乡",
+                "cityid": 27412
+            },
+            {
+                "name": "娄底市",
+                "tags": "loudishi,娄底市",
+                "cityid": 27963
+            },
+            {
+                "name": "冷水江市",
+                "tags": "lengshuijiangshi,冷水江市",
+                "cityid": 28027
+            },
+            {
+                "name": "涟源市",
+                "tags": "lianyuanshi,涟源市",
+                "cityid": 28044
+            },
+            {
+                "name": "乐昌市",
+                "tags": "lechangshi,乐昌市",
+                "cityid": 28517
+            },
+            {
+                "name": "廉江市",
+                "tags": "lianjiangshi,廉江市",
+                "cityid": 28962
+            },
+            {
+                "name": "雷州市",
+                "tags": "leizhoushi,雷州市",
+                "cityid": 28984
+            },
+            {
+                "name": "陆丰市",
+                "tags": "lufengshi,陆丰市",
+                "cityid": 29538
+            },
+            {
+                "name": "连州市",
+                "tags": "lianzhoushi,连州市",
+                "cityid": 29842
+            },
+            {
+                "name": "罗定市",
+                "tags": "luodingshi,罗定市",
+                "cityid": 30141
+            },
+            {
+                "name": "柳州市",
+                "tags": "liuzhoushi,柳州市",
+                "cityid": 30319
+            },
+            {
+                "name": "来宾市",
+                "tags": "laibinshi,来宾市",
+                "cityid": 31401
+            },
+            {
+                "name": "乐山市",
+                "tags": "leshanshi,乐山市",
+                "cityid": 34628
+            },
+            {
+                "name": "六盘水市",
+                "tags": "liupanshuishi,六盘水市",
+                "cityid": 38042
+            },
+            {
+                "name": "丽江市",
+                "tags": "lijiangshi,丽江市",
+                "cityid": 40160
+            },
+            {
+                "name": "拉市乡",
+                "tags": "lashixiang,拉市乡",
+                "cityid": 40177
+            },
+            {
+                "name": "临沧市",
+                "tags": "lincangshi,临沧市",
+                "cityid": 40348
+            },
+            {
+                "name": "潞西市",
+                "tags": "luxishi,潞西市",
+                "cityid": 40988
+            },
+            {
+                "name": "拉萨市",
+                "tags": "lasashi,拉萨市",
+                "cityid": 41104
+            },
+            {
+                "name": "兰州市",
+                "tags": "lanzhoushi,兰州市",
+                "cityid": 43777
+            },
+            {
+                "name": "陇南市",
+                "tags": "longnanshi,陇南市",
+                "cityid": 44829
+            },
+            {
+                "name": "临夏市",
+                "tags": "linxiashi,临夏市",
+                "cityid": 45036
+            },
+            {
+                "name": "灵武市",
+                "tags": "lingwushi,灵武市",
+                "cityid": 45813
+            }
+        ]
+    },
+    {
+        "name": "M",
+        "cities": [
+            {
+                "name": "满洲里市",
+                "tags": "manzhoulishi,满洲里市",
+                "cityid": 5337
+            },
+            {
+                "name": "满洲里市第一",
+                "tags": "manzhoulishidiyi,满洲里市第一",
+                "cityid": 5342
+            },
+            {
+                "name": "满洲里市第二",
+                "tags": "manzhoulishidier,满洲里市第二",
+                "cityid": 5343
+            },
+            {
+                "name": "满洲里市第三",
+                "tags": "manzhoulishidisan,满洲里市第三",
+                "cityid": 5344
+            },
+            {
+                "name": "满洲里市第四",
+                "tags": "manzhoulishidisi,满洲里市第四",
+                "cityid": 5345
+            },
+            {
+                "name": "满洲里市第五",
+                "tags": "manzhoulishidiwu,满洲里市第五",
+                "cityid": 5346
+            },
+            {
+                "name": "梅河口市",
+                "tags": "meihekoushi,梅河口市",
+                "cityid": 8104
+            },
+            {
+                "name": "密山市",
+                "tags": "mishanshi,密山市",
+                "cityid": 9199
+            },
+            {
+                "name": "牡丹江市",
+                "tags": "mudanjiangshi,牡丹江市",
+                "cityid": 9981
+            },
+            {
+                "name": "穆棱市",
+                "tags": "mulengshi,穆棱市",
+                "cityid": 10072
+            },
+            {
+                "name": "马鞍山市",
+                "tags": "maanshanshi,马鞍山市",
+                "cityid": 14575
+            },
+            {
+                "name": "梅市乡",
+                "tags": "meishixiang,梅市乡",
+                "cityid": 15135
+            },
+            {
+                "name": "明光市",
+                "tags": "mingguangshi,明光市",
+                "cityid": 15166
+            },
+            {
+                "name": "孟州市",
+                "tags": "mengzhoushi,孟州市",
+                "cityid": 22546
+            },
+            {
+                "name": "马市坪乡",
+                "tags": "mashipingxiang,马市坪乡",
+                "cityid": 22966
+            },
+            {
+                "name": "麻城市",
+                "tags": "machengshi,麻城市",
+                "cityid": 25211
+            },
+            {
+                "name": "麦市乡",
+                "tags": "maishixiang,麦市乡",
+                "cityid": 27318
+            },
+            {
+                "name": "茂名市",
+                "tags": "maomingshi,茂名市",
+                "cityid": 29026
+            },
+            {
+                "name": "梅州市",
+                "tags": "meizhoushi,梅州市",
+                "cityid": 29371
+            },
+            {
+                "name": "绵竹市",
+                "tags": "mianzhushi,绵竹市",
+                "cityid": 33795
+            },
+            {
+                "name": "绵阳市",
+                "tags": "mianyangshi,绵阳市",
+                "cityid": 33817
+            },
+            {
+                "name": "眉山市",
+                "tags": "meishanshi,眉山市",
+                "cityid": 35288
+            },
+            {
+                "name": "米泉市",
+                "tags": "miquanshi,米泉市",
+                "cityid": 46289
+            }
+        ]
+    },
+    {
+        "name": "N",
+        "cities": [
+            {
+                "name": "南宫市",
+                "tags": "nangongshi,南宫市",
+                "cityid": 1738
+            },
+            {
+                "name": "内蒙古自治区",
+                "tags": "neimengguzizhiqu,内蒙古自治区",
+                "cityid": 4670
+            },
+            {
+                "name": "宁安市",
+                "tags": "ninganshi,宁安市",
+                "cityid": 10056
+            },
+            {
+                "name": "南京市",
+                "tags": "nanjingshi,南京市",
+                "cityid": 10809
+            },
+            {
+                "name": "南京市靖安三江口工业园",
+                "tags": "nanjingshijingansanjiangkougongyeyuan,南京市靖安三江口工业园",
+                "cityid": 10889
+            },
+            {
+                "name": "南京市马群科技园",
+                "tags": "nanjingshimaqunkejiyuan,南京市马群科技园",
+                "cityid": 10891
+            },
+            {
+                "name": "南通市",
+                "tags": "nantongshi,南通市",
+                "cityid": 11482
+            },
+            {
+                "name": "宁波市",
+                "tags": "ningboshi,宁波市",
+                "cityid": 12813
+            },
+            {
+                "name": "宁国市",
+                "tags": "ningguoshi,宁国市",
+                "cityid": 16048
+            },
+            {
+                "name": "南安市",
+                "tags": "nananshi,南安市",
+                "cityid": 16726
+            },
+            {
+                "name": "南平市",
+                "tags": "nanpingshi,南平市",
+                "cityid": 16924
+            },
+            {
+                "name": "宁德市　",
+                "tags": "ningdeshi,宁德市　",
+                "cityid": 17219
+            },
+            {
+                "name": "南昌市",
+                "tags": "nanchangshi,南昌市",
+                "cityid": 17360
+            },
+            {
+                "name": "南康市",
+                "tags": "nankangshi,南康市",
+                "cityid": 18306
+            },
+            {
+                "name": "南康市工业园",
+                "tags": "nankangshigongyeyuan,南康市工业园",
+                "cityid": 18329
+            },
+            {
+                "name": "南阳市",
+                "tags": "nanyangshi,南阳市",
+                "cityid": 22910
+            },
+            {
+                "name": "南雄市",
+                "tags": "nanxiongshi,南雄市",
+                "cityid": 28539
+            },
+            {
+                "name": "南宁市",
+                "tags": "nanningshi,南宁市",
+                "cityid": 30165
+            },
+            {
+                "name": "内江市",
+                "tags": "neijiangshi,内江市",
+                "cityid": 34501
+            },
+            {
+                "name": "南充市",
+                "tags": "nanchongshi,南充市",
+                "cityid": 34859
+            },
+            {
+                "name": "宁夏回族自治区",
+                "tags": "ningxiahuizuzizhiqu,宁夏回族自治区",
+                "cityid": 45753
+            }
+        ]
+    },
+    {
+        "name": "O"
+    },
+    {
+        "name": "P",
+        "cities": [
+            {
+                "name": "普兰店市",
+                "tags": "pulandianshi,普兰店市",
+                "cityid": 6217
+            },
+            {
+                "name": "盘锦市",
+                "tags": "panjinshi,盘锦市",
+                "cityid": 7024
+            },
+            {
+                "name": "磐石市",
+                "tags": "panshishi,磐石市",
+                "cityid": 7849
+            },
+            {
+                "name": "平湖市",
+                "tags": "pinghushi,平湖市",
+                "cityid": 13339
+            },
+            {
+                "name": "莆田市",
+                "tags": "putianshi,莆田市",
+                "cityid": 16348
+            },
+            {
+                "name": "莆田市后海管理局",
+                "tags": "putianshihouhaiguanliju,莆田市后海管理局",
+                "cityid": 16392
+            },
+            {
+                "name": "萍乡市",
+                "tags": "pingxiangshi,萍乡市",
+                "cityid": 17589
+            },
+            {
+                "name": "坪市乡",
+                "tags": "pingshixiang,坪市乡",
+                "cityid": 18327
+            },
+            {
+                "name": "平度市",
+                "tags": "pingdushi,平度市",
+                "cityid": 19540
+            },
+            {
+                "name": "蓬莱市",
+                "tags": "penglaishi,蓬莱市",
+                "cityid": 19952
+            },
+            {
+                "name": "平顶山市",
+                "tags": "pingdingshanshi,平顶山市",
+                "cityid": 21913
+            },
+            {
+                "name": "彭市乡",
+                "tags": "pengshixiang,彭市乡",
+                "cityid": 27409
+            },
+            {
+                "name": "普宁市",
+                "tags": "puningshi,普宁市",
+                "cityid": 30054
+            },
+            {
+                "name": "凭祥市",
+                "tags": "pingxiangshi,凭祥市",
+                "cityid": 31558
+            },
+            {
+                "name": "彭州市",
+                "tags": "pengzhoushi,彭州市",
+                "cityid": 33272
+            },
+            {
+                "name": "攀枝花市",
+                "tags": "panzhihuashi,攀枝花市",
+                "cityid": 33460
+            },
+            {
+                "name": "平凉市",
+                "tags": "pingliangshi,平凉市",
+                "cityid": 44352
+            }
+        ]
+    },
+    {
+        "name": "Q",
+        "cities": [
+            {
+                "name": "迁安市",
+                "tags": "qiananshi,迁安市",
+                "cityid": 1168
+            },
+            {
+                "name": "秦皇岛市",
+                "tags": "qinhuangdaoshi,秦皇岛市",
+                "cityid": 1188
+            },
+            {
+                "name": "齐齐哈尔市",
+                "tags": "qiqihaershi,齐齐哈尔市",
+                "cityid": 8884
+            },
+            {
+                "name": "七台河市",
+                "tags": "qitaiheshi,七台河市",
+                "cityid": 9930
+            },
+            {
+                "name": "启东市",
+                "tags": "qidongshi,启东市",
+                "cityid": 11542
+            },
+            {
+                "name": "泉州市",
+                "tags": "quanzhoushi,泉州市",
+                "cityid": 16572
+            },
+            {
+                "name": "青岛市",
+                "tags": "qingdaoshi,青岛市",
+                "cityid": 19421
+            },
+            {
+                "name": "栖霞市",
+                "tags": "qixiashi,栖霞市",
+                "cityid": 19980
+            },
+            {
+                "name": "青州市",
+                "tags": "qingzhoushi,青州市",
+                "cityid": 20091
+            },
+            {
+                "name": "曲阜市",
+                "tags": "qufushi,曲阜市",
+                "cityid": 20342
+            },
+            {
+                "name": "沁阳市",
+                "tags": "qinyangshi,沁阳市",
+                "cityid": 22532
+            },
+            {
+                "name": "秦市乡",
+                "tags": "qinshixiang,秦市乡",
+                "cityid": 25028
+            },
+            {
+                "name": "潜江市",
+                "tags": "qianjiangshi,潜江市",
+                "cityid": 25516
+            },
+            {
+                "name": "桥市乡",
+                "tags": "qiaoshixiang,桥市乡",
+                "cityid": 27639
+            },
+            {
+                "name": "清远市",
+                "tags": "qingyuanshi,清远市",
+                "cityid": 29755
+            },
+            {
+                "name": "钦州市",
+                "tags": "qinzhoushi,钦州市",
+                "cityid": 30762
+            },
+            {
+                "name": "琼海市",
+                "tags": "qionghaishi,琼海市",
+                "cityid": 31643
+            },
+            {
+                "name": "青市乡",
+                "tags": "qingshixiang,青市乡",
+                "cityid": 33732
+            },
+            {
+                "name": "曲靖市",
+                "tags": "qujingshi,曲靖市",
+                "cityid": 39710
+            },
+            {
+                "name": "庆阳市",
+                "tags": "qingyangshi,庆阳市",
+                "cityid": 44569
+            },
+            {
+                "name": "青铜峡市",
+                "tags": "qingtongxiashi,青铜峡市",
+                "cityid": 45914
+            }
+        ]
+    },
+    {
+        "name": "R",
+        "cities": [
+            {
+                "name": "任邱市",
+                "tags": "renqiushi,任邱市",
+                "cityid": 2788
+            },
+            {
+                "name": "如皋市",
+                "tags": "rugaoshi,如皋市",
+                "cityid": 11568
+            },
+            {
+                "name": "如皋市农科所",
+                "tags": "rugaoshinongkesuo,如皋市农科所",
+                "cityid": 11596
+            },
+            {
+                "name": "如皋市江滨医院",
+                "tags": "rugaoshijiangbinyiyuan,如皋市江滨医院",
+                "cityid": 11597
+            },
+            {
+                "name": "瑞安市",
+                "tags": "ruianshi,瑞安市",
+                "cityid": 13209
+            },
+            {
+                "name": "瑞昌市",
+                "tags": "ruichangshi,瑞昌市",
+                "cityid": 17872
+            },
+            {
+                "name": "瑞金市",
+                "tags": "ruijinshi,瑞金市",
+                "cityid": 18287
+            },
+            {
+                "name": "瑞金市工业园",
+                "tags": "ruijinshigongyeyuan,瑞金市工业园",
+                "cityid": 18305
+            },
+            {
+                "name": "荣成市",
+                "tags": "rongchengshi,荣成市",
+                "cityid": 20519
+            },
+            {
+                "name": "乳山市",
+                "tags": "rushanshi,乳山市",
+                "cityid": 20542
+            },
+            {
+                "name": "日照市",
+                "tags": "rizhaoshi,日照市",
+                "cityid": 20558
+            },
+            {
+                "name": "汝州市",
+                "tags": "ruzhoushi,汝州市",
+                "cityid": 22037
+            },
+            {
+                "name": "仁怀市",
+                "tags": "renhuaishi,仁怀市",
+                "cityid": 38382
+            },
+            {
+                "name": "瑞丽市",
+                "tags": "ruilishi,瑞丽市",
+                "cityid": 40980
+            },
+            {
+                "name": "日喀则市",
+                "tags": "rikazeshi,日喀则市",
+                "cityid": 41424
+            }
+        ]
+    },
+    {
+        "name": "S",
+        "cities": [
+            {
+                "name": "石家庄市",
+                "tags": "shijiazhuangshi,石家庄市",
+                "cityid": 637
+            },
+            {
+                "name": "市同乡",
+                "tags": "shitongxiang,市同乡",
+                "cityid": 753
+            },
+            {
+                "name": "沙河市",
+                "tags": "shaheshi,沙河市",
+                "cityid": 1754
+            },
+            {
+                "name": "三河市",
+                "tags": "sanheshi,三河市",
+                "cityid": 2953
+            },
+            {
+                "name": "深州市",
+                "tags": "shenzhoushi,深州市",
+                "cityid": 3083
+            },
+            {
+                "name": "山西",
+                "tags": "shanxi,山西",
+                "cityid": 3102
+            },
+            {
+                "name": "朔州市",
+                "tags": "shuozhoushi,朔州市",
+                "cityid": 3690
+            },
+            {
+                "name": "沈阳市",
+                "tags": "shenyangshi,沈阳市",
+                "cityid": 5828
+            },
+            {
+                "name": "舒兰市",
+                "tags": "shulanshi,舒兰市",
+                "cityid": 7828
+            },
+            {
+                "name": "四平市",
+                "tags": "sipingshi,四平市",
+                "cityid": 7868
+            },
+            {
+                "name": "双辽市",
+                "tags": "shuangliaoshi,双辽市",
+                "cityid": 7964
+            },
+            {
+                "name": "松原市",
+                "tags": "songyuanshi,松原市",
+                "cityid": 8216
+            },
+            {
+                "name": "双城市",
+                "tags": "shuangchengshi,双城市",
+                "cityid": 8812
+            },
+            {
+                "name": "尚志市",
+                "tags": "shangzhishi,尚志市",
+                "cityid": 8838
+            },
+            {
+                "name": "双鸭山市",
+                "tags": "shuangyashanshi,双鸭山市",
+                "cityid": 9296
+            },
+            {
+                "name": "绥芬河市",
+                "tags": "suifenheshi,绥芬河市",
+                "cityid": 10036
+            },
+            {
+                "name": "绥化市",
+                "tags": "suihuashi,绥化市",
+                "cityid": 10252
+            },
+            {
+                "name": "上海市",
+                "tags": "shanghaishi,上海市",
+                "cityid": 10543
+            },
+            {
+                "name": "苏州市",
+                "tags": "suzhoushi,苏州市",
+                "cityid": 11348
+            },
+            {
+                "name": "宿迁市",
+                "tags": "suqianshi,宿迁市",
+                "cityid": 12475
+            },
+            {
+                "name": "绍兴市",
+                "tags": "shaoxingshi,绍兴市",
+                "cityid": 13437
+            },
+            {
+                "name": "上虞市",
+                "tags": "shangyushi,上虞市",
+                "cityid": 13518
+            },
+            {
+                "name": "宿州市",
+                "tags": "suzhoushi,宿州市",
+                "cityid": 15378
+            },
+            {
+                "name": "三明市",
+                "tags": "sanmingshi,三明市",
+                "cityid": 16412
+            },
+            {
+                "name": "石狮市",
+                "tags": "shishishi,石狮市",
+                "cityid": 16693
+            },
+            {
+                "name": "邵武市",
+                "tags": "shaowushi,邵武市",
+                "cityid": 17012
+            },
+            {
+                "name": "上饶市",
+                "tags": "shangraoshi,上饶市",
+                "cityid": 19024
+            },
+            {
+                "name": "寿光市",
+                "tags": "shouguangshi,寿光市",
+                "cityid": 20137
+            },
+            {
+                "name": "三门峡市",
+                "tags": "sanmenxiashi,三门峡市",
+                "cityid": 22824
+            },
+            {
+                "name": "商丘市",
+                "tags": "shangqiushi,商丘市",
+                "cityid": 23170
+            },
+            {
+                "name": "十堰市",
+                "tags": "shiyanshi,十堰市",
+                "cityid": 24291
+            },
+            {
+                "name": "石首市",
+                "tags": "shishoushi,石首市",
+                "cityid": 25032
+            },
+            {
+                "name": "松滋市",
+                "tags": "songzishi,松滋市",
+                "cityid": 25069
+            },
+            {
+                "name": "随州市",
+                "tags": "suizhoushi,随州市",
+                "cityid": 25335
+            },
+            {
+                "name": "韶山市",
+                "tags": "shaoshanshi,韶山市",
+                "cityid": 25993
+            },
+            {
+                "name": "石市乡",
+                "tags": "shishixiang,石市乡",
+                "cityid": 26073
+            },
+            {
+                "name": "邵阳市",
+                "tags": "shaoyangshi,邵阳市",
+                "cityid": 26242
+            },
+            {
+                "name": "市郊乡",
+                "tags": "shijiaoxiang,市郊乡",
+                "cityid": 27160
+            },
+            {
+                "name": "韶关市",
+                "tags": "shaoguanshi,韶关市",
+                "cityid": 28421
+            },
+            {
+                "name": "深圳市",
+                "tags": "shenshi,深圳市",
+                "cityid": 28558
+            },
+            {
+                "name": "汕头市",
+                "tags": "shantoushi,汕头市",
+                "cityid": 28659
+            },
+            {
+                "name": "四会市",
+                "tags": "sihuishi,四会市",
+                "cityid": 29266
+            },
+            {
+                "name": "汕尾市",
+                "tags": "shanweishi,汕尾市",
+                "cityid": 29498
+            },
+            {
+                "name": "三亚市",
+                "tags": "sanyashi,三亚市",
+                "cityid": 31618
+            },
+            {
+                "name": "水市乡",
+                "tags": "shuishixiang,水市乡",
+                "cityid": 32242
+            },
+            {
+                "name": "什邡市",
+                "tags": "shishi,什邡市",
+                "cityid": 33778
+            },
+            {
+                "name": "遂宁市",
+                "tags": "suiningshi,遂宁市",
+                "cityid": 34376
+            },
+            {
+                "name": "市荣乡",
+                "tags": "shirongxiang,市荣乡",
+                "cityid": 36228
+            },
+            {
+                "name": "市坪乡",
+                "tags": "shipingxiang,市坪乡",
+                "cityid": 38262
+            },
+            {
+                "name": "市中",
+                "tags": "shizhong,市中",
+                "cityid": 38502
+            },
+            {
+                "name": "思茅市",
+                "tags": "simaoshi,思茅市",
+                "cityid": 40230
+            },
+            {
+                "name": "商洛市",
+                "tags": "shangluoshi,商洛市",
+                "cityid": 43592
+            },
+            {
+                "name": "市辖",
+                "tags": "shixia,市辖",
+                "cityid": 43905
+            },
+            {
+                "name": "石嘴山市",
+                "tags": "shizuishanshi,石嘴山市",
+                "cityid": 45825
+            },
+            {
+                "name": "石河子市",
+                "tags": "shihezishi,石河子市",
+                "cityid": 47451
+            }
+        ]
+    },
+    {
+        "name": "T",
+        "cities": [
+            {
+                "name": "天津市",
+                "tags": "tianjinshi,天津市",
+                "cityid": 338
+            },
+            {
+                "name": "唐山市",
+                "tags": "tangshanshi,唐山市",
+                "cityid": 936
+            },
+            {
+                "name": "太原市",
+                "tags": "taiyuanshi,太原市",
+                "cityid": 3103
+            },
+            {
+                "name": "通辽市",
+                "tags": "tongliaoshi,通辽市",
+                "cityid": 5029
+            },
+            {
+                "name": "铁岭市",
+                "tags": "tielingshi,铁岭市",
+                "cityid": 7088
+            },
+            {
+                "name": "通化市",
+                "tags": "tonghuashi,通化市",
+                "cityid": 8037
+            },
+            {
+                "name": "图们市",
+                "tags": "tumenshi,图们市",
+                "cityid": 8456
+            },
+            {
+                "name": "铁力市",
+                "tags": "tielishi,铁力市",
+                "cityid": 9772
+            },
+            {
+                "name": "同江市",
+                "tags": "tongjiangshi,同江市",
+                "cityid": 9879
+            },
+            {
+                "name": "太仓市",
+                "tags": "taicangshi,太仓市",
+                "cityid": 11472
+            },
+            {
+                "name": "通州市",
+                "tags": "tongzhoushi,通州市",
+                "cityid": 11600
+            },
+            {
+                "name": "泰州市",
+                "tags": "taizhoushi,泰州市",
+                "cityid": 12343
+            },
+            {
+                "name": "泰兴市",
+                "tags": "taixingshi,泰兴市",
+                "cityid": 12423
+            },
+            {
+                "name": "泰兴市农科所",
+                "tags": "taixingshinongkesuo,泰兴市农科所",
+                "cityid": 12449
+            },
+            {
+                "name": "桐乡市",
+                "tags": "tongxiangshi,桐乡市",
+                "cityid": 13350
+            },
+            {
+                "name": "台州市",
+                "tags": "taizhoushi,台州市",
+                "cityid": 13890
+            },
+            {
+                "name": "铜陵市",
+                "tags": "tonglingshi,铜陵市",
+                "cityid": 14653
+            },
+            {
+                "name": "桐城市",
+                "tags": "tongchengshi,桐城市",
+                "cityid": 14859
+            },
+            {
+                "name": "天长市",
+                "tags": "tianchangshi,天长市",
+                "cityid": 15136
+            },
+            {
+                "name": "泰安市",
+                "tags": "taianshi,泰安市",
+                "cityid": 20386
+            },
+            {
+                "name": "天门市",
+                "tags": "tianmenshi,天门市",
+                "cityid": 25541
+            },
+            {
+                "name": "堂市乡",
+                "tags": "tangshixiang,堂市乡",
+                "cityid": 25807
+            },
+            {
+                "name": "汤市乡",
+                "tags": "tangshixiang,汤市乡",
+                "cityid": 27410
+            },
+            {
+                "name": "土市乡",
+                "tags": "tushixiang,土市乡",
+                "cityid": 27599
+            },
+            {
+                "name": "台山市",
+                "tags": "taishanshi,台山市",
+                "cityid": 28818
+            },
+            {
+                "name": "涂市乡",
+                "tags": "tushixiang,涂市乡",
+                "cityid": 32942
+            },
+            {
+                "name": "铜仁市",
+                "tags": "tongrenshi,铜仁市",
+                "cityid": 38498
+            },
+            {
+                "name": "铜川市",
+                "tags": "tongchuanshi,铜川市",
+                "cityid": 42069
+            },
+            {
+                "name": "天水市",
+                "tags": "tianshuishi,天水市",
+                "cityid": 44022
+            },
+            {
+                "name": "吐鲁番市",
+                "tags": "tulufanshi,吐鲁番市",
+                "cityid": 46163
+            },
+            {
+                "name": "塔城市",
+                "tags": "tachengshi,塔城市",
+                "cityid": 47242
+            },
+            {
+                "name": "图木舒克市",
+                "tags": "tumushukeshi,图木舒克市",
+                "cityid": 47477
+            }
+        ]
+    },
+    {
+        "name": "U"
+    },
+    {
+        "name": "V"
+    },
+    {
+        "name": "W",
+        "cities": [
+            {
+                "name": "武安市",
+                "tags": "wuanshi,武安市",
+                "cityid": 1531
+            },
+            {
+                "name": "乌海市",
+                "tags": "wuhaishi,乌海市",
+                "cityid": 4849
+            },
+            {
+                "name": "乌兰察布市",
+                "tags": "wulanchabushi,乌兰察布市",
+                "cityid": 5505
+            },
+            {
+                "name": "乌兰浩特市",
+                "tags": "wulanhaoteshi,乌兰浩特市",
+                "cityid": 5617
+            },
+            {
+                "name": "瓦房店市",
+                "tags": "wafangdianshi,瓦房店市",
+                "cityid": 6184
+            },
+            {
+                "name": "五常市",
+                "tags": "wuchangshi,五常市",
+                "cityid": 8858
+            },
+            {
+                "name": "五大连池市",
+                "tags": "wudalianchishi,五大连池市",
+                "cityid": 10214
+            },
+            {
+                "name": "无锡市",
+                "tags": "wuxishi,无锡市",
+                "cityid": 10960
+            },
+            {
+                "name": "无锡市茶叶研究所",
+                "tags": "wuxishichayeyanjiusuo,无锡市茶叶研究所",
+                "cityid": 11066
+            },
+            {
+                "name": "吴江市",
+                "tags": "wujiangshi,吴江市",
+                "cityid": 11460
+            },
+            {
+                "name": "温州市",
+                "tags": "wenzhoushi,温州市",
+                "cityid": 12974
+            },
+            {
+                "name": "温岭市",
+                "tags": "wenlingshi,温岭市",
+                "cityid": 13996
+            },
+            {
+                "name": "芜湖市",
+                "tags": "wuhushi,芜湖市",
+                "cityid": 14351
+            },
+            {
+                "name": "武夷山市",
+                "tags": "wuyishanshi,武夷山市",
+                "cityid": 17033
+            },
+            {
+                "name": "潍坊市",
+                "tags": "weifangshi,潍坊市",
+                "cityid": 20012
+            },
+            {
+                "name": "威海市",
+                "tags": "weihaishi,威海市",
+                "cityid": 20480
+            },
+            {
+                "name": "文登市",
+                "tags": "wendengshi,文登市",
+                "cityid": 20500
+            },
+            {
+                "name": "舞钢市",
+                "tags": "wugangshi,舞钢市",
+                "cityid": 22024
+            },
+            {
+                "name": "卫辉市",
+                "tags": "weihuishi,卫辉市",
+                "cityid": 22386
+            },
+            {
+                "name": "武汉市",
+                "tags": "wuhanshi,武汉市",
+                "cityid": 24023
+            },
+            {
+                "name": "武穴市",
+                "tags": "wuxueshi,武穴市",
+                "cityid": 25235
+            },
+            {
+                "name": "武冈市",
+                "tags": "wugangshi,武冈市",
+                "cityid": 26465
+            },
+            {
+                "name": "吴川市",
+                "tags": "wuchuanshi,吴川市",
+                "cityid": 29010
+            },
+            {
+                "name": "梧州市",
+                "tags": "wuzhoushi,梧州市",
+                "cityid": 30613
+            },
+            {
+                "name": "五指山市",
+                "tags": "wuzhishanshi,五指山市",
+                "cityid": 31634
+            },
+            {
+                "name": "文昌市",
+                "tags": "wenchangshi,文昌市",
+                "cityid": 31697
+            },
+            {
+                "name": "万宁市",
+                "tags": "wanningshi,万宁市",
+                "cityid": 31718
+            },
+            {
+                "name": "万源市",
+                "tags": "wanyuanshi,万源市",
+                "cityid": 36082
+            },
+            {
+                "name": "渭南市",
+                "tags": "weinanshi,渭南市",
+                "cityid": 42490
+            },
+            {
+                "name": "武威市",
+                "tags": "wuweishi,武威市",
+                "cityid": 44154
+            },
+            {
+                "name": "吴忠市",
+                "tags": "wuzhongshi,吴忠市",
+                "cityid": 45871
+            },
+            {
+                "name": "乌鲁木齐市",
+                "tags": "wulumuqishi,乌鲁木齐市",
+                "cityid": 46048
+            },
+            {
+                "name": "乌苏市",
+                "tags": "wusushi,乌苏市",
+                "cityid": 47258
+            },
+            {
+                "name": "五家渠市",
+                "tags": "wujiaqushi,五家渠市",
+                "cityid": 47486
+            }
+        ]
+    },
+    {
+        "name": "X",
+        "cities": [
+            {
+                "name": "辛集市",
+                "tags": "xinjishi,辛集市",
+                "cityid": 866
+            },
+            {
+                "name": "新乐市",
+                "tags": "xinleshi,新乐市",
+                "cityid": 909
+            },
+            {
+                "name": "邢台市",
+                "tags": "xingtaishi,邢台市",
+                "cityid": 1554
+            },
+            {
+                "name": "忻州市",
+                "tags": "xinzhoushi,忻州市",
+                "cityid": 4093
+            },
+            {
+                "name": "孝义市",
+                "tags": "xiaoyishi,孝义市",
+                "cityid": 4638
+            },
+            {
+                "name": "锡林浩特市",
+                "tags": "xilinhaoteshi,锡林浩特市",
+                "cityid": 5709
+            },
+            {
+                "name": "新民市",
+                "tags": "xinminshi,新民市",
+                "cityid": 6058
+            },
+            {
+                "name": "兴城市",
+                "tags": "xingchengshi,兴城市",
+                "cityid": 7503
+            },
+            {
+                "name": "徐州市",
+                "tags": "xuzhoushi,徐州市",
+                "cityid": 11067
+            },
+            {
+                "name": "新沂市",
+                "tags": "xinyishi,新沂市",
+                "cityid": 11200
+            },
+            {
+                "name": "兴化市",
+                "tags": "xinghuashi,兴化市",
+                "cityid": 12370
+            },
+            {
+                "name": "宣城市",
+                "tags": "xuanchengshi,宣城市",
+                "cityid": 15958
+            },
+            {
+                "name": "厦门市",
+                "tags": "xiamenshi,厦门市",
+                "cityid": 16278
+            },
+            {
+                "name": "新余市",
+                "tags": "xinyushi,新余市",
+                "cityid": 17894
+            },
+            {
+                "name": "新市乡",
+                "tags": "xinshixiang,新市乡",
+                "cityid": 36071
+            },
+            {
+                "name": "新泰市",
+                "tags": "xintaishi,新泰市",
+                "cityid": 20444
+            },
+            {
+                "name": "新密市",
+                "tags": "xinmishi,新密市",
+                "cityid": 21523
+            },
+            {
+                "name": "新郑市",
+                "tags": "xinzhengshi,新郑市",
+                "cityid": 21542
+            },
+            {
+                "name": "新乡市",
+                "tags": "xinxiangshi,新乡市",
+                "cityid": 22251
+            },
+            {
+                "name": "许昌市",
+                "tags": "xuchangshi,许昌市",
+                "cityid": 22655
+            },
+            {
+                "name": "信阳市",
+                "tags": "xinyangshi,信阳市",
+                "cityid": 23372
+            },
+            {
+                "name": "项城市",
+                "tags": "xiangchengshi,项城市",
+                "cityid": 23796
+            },
+            {
+                "name": "襄樊市",
+                "tags": "xiangfanshi,襄樊市",
+                "cityid": 24580
+            },
+            {
+                "name": "孝感市",
+                "tags": "xiaoganshi,孝感市",
+                "cityid": 24816
+            },
+            {
+                "name": "咸宁市",
+                "tags": "xianningshi,咸宁市",
+                "cityid": 25249
+            },
+            {
+                "name": "仙桃市",
+                "tags": "xiantaoshi,仙桃市",
+                "cityid": 25488
+            },
+            {
+                "name": "湘潭市",
+                "tags": "xiangtanshi,湘潭市",
+                "cityid": 25912
+            },
+            {
+                "name": "湘乡市",
+                "tags": "xiangxiangshi,湘乡市",
+                "cityid": 25970
+            },
+            {
+                "name": "相市乡",
+                "tags": "xiangshixiang,相市乡",
+                "cityid": 26103
+            },
+            {
+                "name": "小溪市乡",
+                "tags": "xiaoxishixiang,小溪市乡",
+                "cityid": 26336
+            },
+            {
+                "name": "信宜市",
+                "tags": "xinyishi,信宜市",
+                "cityid": 29138
+            },
+            {
+                "name": "兴宁市",
+                "tags": "xingningshi,兴宁市",
+                "cityid": 29477
+            },
+            {
+                "name": "西昌市",
+                "tags": "xichangshi,西昌市",
+                "cityid": 37271
+            },
+            {
+                "name": "兴义市",
+                "tags": "xingyishi,兴义市",
+                "cityid": 38678
+            },
+            {
+                "name": "宣威市",
+                "tags": "xuanweishi,宣威市",
+                "cityid": 39809
+            },
+            {
+                "name": "西藏自治区",
+                "tags": "xicangzizhiqu,西藏自治区",
+                "cityid": 41103
+            },
+            {
+                "name": "西安市",
+                "tags": "xianshi,西安市",
+                "cityid": 41878
+            },
+            {
+                "name": "咸阳市",
+                "tags": "xianyangshi,咸阳市",
+                "cityid": 42287
+            },
+            {
+                "name": "兴平市",
+                "tags": "xingpingshi,兴平市",
+                "cityid": 42475
+            },
+            {
+                "name": "新市河乡",
+                "tags": "xinshihexiang,新市河乡",
+                "cityid": 42859
+            },
+            {
+                "name": "西宁市",
+                "tags": "xiningshi,西宁市",
+                "cityid": 45287
+            },
+            {
+                "name": "新疆维吾尔自治区",
+                "tags": "xinjiangweiwuerzizhiqu,新疆维吾尔自治区",
+                "cityid": 46047
+            },
+            {
+                "name": "香港特别行政区",
+                "tags": "xianggangtebiexingzhengqu,香港特别行政区",
+                "cityid": 47494
+            }
+        ]
+    },
+    {
+        "name": "Y",
+        "cities": [
+            {
+                "name": "阳泉市",
+                "tags": "yangquanshi,阳泉市",
+                "cityid": 3379
+            },
+            {
+                "name": "运城市",
+                "tags": "yunchengshi,运城市",
+                "cityid": 3925
+            },
+            {
+                "name": "永济市",
+                "tags": "yongjishi,永济市",
+                "cityid": 4070
+            },
+            {
+                "name": "原平市",
+                "tags": "yuanpingshi,原平市",
+                "cityid": 4280
+            },
+            {
+                "name": "牙克石市",
+                "tags": "yakeshishi,牙克石市",
+                "cityid": 5354
+            },
+            {
+                "name": "营口市",
+                "tags": "yingkoushi,营口市",
+                "cityid": 6771
+            },
+            {
+                "name": "榆树市",
+                "tags": "yushushi,榆树市",
+                "cityid": 7658
+            },
+            {
+                "name": "延吉市",
+                "tags": "yanjishi,延吉市",
+                "cityid": 8446
+            },
+            {
+                "name": "伊春市",
+                "tags": "yichunshi,伊春市",
+                "cityid": 9553
+            },
+            {
+                "name": "宜兴市",
+                "tags": "yixingshi,宜兴市",
+                "cityid": 11039
+            },
+            {
+                "name": "盐城市",
+                "tags": "yanchengshi,盐城市",
+                "cityid": 11947
+            },
+            {
+                "name": "扬州市",
+                "tags": "yangzhoushi,扬州市",
+                "cityid": 12135
+            },
+            {
+                "name": "仪征市",
+                "tags": "yizhengshi,仪征市",
+                "cityid": 12191
+            },
+            {
+                "name": "扬中市",
+                "tags": "yangzhongshi,扬中市",
+                "cityid": 12300
+            },
+            {
+                "name": "扬中市渔业社",
+                "tags": "yangzhongshiyuyeshe,扬中市渔业社",
+                "cityid": 12309
+            },
+            {
+                "name": "扬中市西沙芦柳管理所",
+                "tags": "yangzhongshixishaluliuguanlisuo,扬中市西沙芦柳管理所",
+                "cityid": 12311
+            },
+            {
+                "name": "余姚市",
+                "tags": "yuyaoshi,余姚市",
+                "cityid": 12919
+            },
+            {
+                "name": "义乌市",
+                "tags": "yiwushi,义乌市",
+                "cityid": 13678
+            },
+            {
+                "name": "永康市",
+                "tags": "yongkangshi,永康市",
+                "cityid": 13711
+            },
+            {
+                "name": "永安市",
+                "tags": "yonganshi,永安市",
+                "cityid": 16556
+            },
+            {
+                "name": "鹰潭市",
+                "tags": "yingtanshi,鹰潭市",
+                "cityid": 17934
+            },
+            {
+                "name": "宜春市",
+                "tags": "yichunshi,宜春市",
+                "cityid": 18598
+            },
+            {
+                "name": "野市乡",
+                "tags": "yeshixiang,野市乡",
+                "cityid": 18690
+            },
+            {
+                "name": "烟台市",
+                "tags": "yantaishi,烟台市",
+                "cityid": 19846
+            },
+            {
+                "name": "禹城市",
+                "tags": "yuchengshi,禹城市",
+                "cityid": 20969
+            },
+            {
+                "name": "禹州市",
+                "tags": "yuzhoushi,禹州市",
+                "cityid": 22718
+            },
+            {
+                "name": "义马市",
+                "tags": "yimashi,义马市",
+                "cityid": 22885
+            },
+            {
+                "name": "永城市",
+                "tags": "yongchengshi,永城市",
+                "cityid": 23342
+            },
+            {
+                "name": "宜昌市",
+                "tags": "yichangshi,宜昌市",
+                "cityid": 24453
+            },
+            {
+                "name": "宜都市",
+                "tags": "yidushi,宜都市",
+                "cityid": 24546
+            },
+            {
+                "name": "宜城市",
+                "tags": "yichengshi,宜城市",
+                "cityid": 24692
+            },
+            {
+                "name": "应城市",
+                "tags": "yingchengshi,应城市",
+                "cityid": 24885
+            },
+            {
+                "name": "岳阳市",
+                "tags": "yueyangshi,岳阳市",
+                "cityid": 26485
+            },
+            {
+                "name": "益阳市",
+                "tags": "yiyangshi,益阳市",
+                "cityid": 27038
+            },
+            {
+                "name": "永州市",
+                "tags": "yongzhoushi,永州市",
+                "cityid": 27418
+            },
+            {
+                "name": "尧市乡",
+                "tags": "yaoshixiang,尧市乡",
+                "cityid": 27825
+            },
+            {
+                "name": "阳江市",
+                "tags": "yangjiangshi,阳江市",
+                "cityid": 29679
+            },
+            {
+                "name": "阳春市",
+                "tags": "yangchunshi,阳春市",
+                "cityid": 29729
+            },
+            {
+                "name": "英德市",
+                "tags": "yingdeshi,英德市",
+                "cityid": 29816
+            },
+            {
+                "name": "云浮市",
+                "tags": "yunfushi,云浮市",
+                "cityid": 30086
+            },
+            {
+                "name": "玉林市",
+                "tags": "yulinshi,玉林市",
+                "cityid": 30915
+            },
+            {
+                "name": "宜州市",
+                "tags": "yizhoushi,宜州市",
+                "cityid": 31384
+            },
+            {
+                "name": "宜宾市",
+                "tags": "yibinshi,宜宾市",
+                "cityid": 35427
+            },
+            {
+                "name": "姚市乡",
+                "tags": "yaoshixiang,姚市乡",
+                "cityid": 36018
+            },
+            {
+                "name": "雅安市",
+                "tags": "yaanshi,雅安市",
+                "cityid": 36136
+            },
+            {
+                "name": "玉溪市",
+                "tags": "yuxishi,玉溪市",
+                "cityid": 39836
+            },
+            {
+                "name": "延安市",
+                "tags": "yananshi,延安市",
+                "cityid": 42703
+            },
+            {
+                "name": "榆林市",
+                "tags": "yulinshi,榆林市",
+                "cityid": 43136
+            },
+            {
+                "name": "玉门市",
+                "tags": "yumenshi,玉门市",
+                "cityid": 44539
+            },
+            {
+                "name": "银川市",
+                "tags": "yinchuanshi,银川市",
+                "cityid": 45754
+            },
+            {
+                "name": "伊宁市",
+                "tags": "yiningshi,伊宁市",
+                "cityid": 47070
+            }
+        ]
+    },
+    {
+        "name": "Z",
+        "cities": [
+            {
+                "name": "遵化市",
+                "tags": "zunhuashi,遵化市",
+                "cityid": 1140
+            },
+            {
+                "name": "张家口市",
+                "tags": "zhangjiakoushi,张家口市",
+                "cityid": 2142
+            },
+            {
+                "name": "扎兰屯市",
+                "tags": "zhalantunshi,扎兰屯市",
+                "cityid": 5371
+            },
+            {
+                "name": "扎兰屯市林业局",
+                "tags": "zhalantunshilinyeju,扎兰屯市林业局",
+                "cityid": 5395
+            },
+            {
+                "name": "庄河市",
+                "tags": "zhuangheshi,庄河市",
+                "cityid": 6239
+            },
+            {
+                "name": "肇东市",
+                "tags": "zhaodongshi,肇东市",
+                "cityid": 10425
+            },
+            {
+                "name": "张家港市",
+                "tags": "zhangjiagangshi,张家港市",
+                "cityid": 11433
+            },
+            {
+                "name": "张家港市沿江开发办",
+                "tags": "zhangjiagangshiyanjiangkaifaban,张家港市沿江开发办",
+                "cityid": 11444
+            },
+            {
+                "name": "诸暨市",
+                "tags": "zhushi,诸暨市",
+                "cityid": 13490
+            },
+            {
+                "name": "舟山市",
+                "tags": "zhoushanshi,舟山市",
+                "cityid": 13840
+            },
+            {
+                "name": "漳州市",
+                "tags": "zhangzhoushi,漳州市",
+                "cityid": 16754
+            },
+            {
+                "name": "漳平市",
+                "tags": "zhangpingshi,漳平市",
+                "cityid": 17202
+            },
+            {
+                "name": "樟树市",
+                "tags": "zhangshushi,樟树市",
+                "cityid": 18777
+            },
+            {
+                "name": "樟树市工业园",
+                "tags": "zhangshushigongyeyuan,樟树市工业园",
+                "cityid": 18798
+            },
+            {
+                "name": "章丘市",
+                "tags": "zhangqiushi,章丘市",
+                "cityid": 19400
+            },
+            {
+                "name": "淄博市",
+                "tags": "ziboshi,淄博市",
+                "cityid": 19608
+            },
+            {
+                "name": "枣庄市",
+                "tags": "zaozhuangshi,枣庄市",
+                "cityid": 19724
+            },
+            {
+                "name": "招远市",
+                "tags": "zhaoyuanshi,招远市",
+                "cityid": 19965
+            },
+            {
+                "name": "诸城市",
+                "tags": "zhuchengshi,诸城市",
+                "cityid": 20113
+            },
+            {
+                "name": "邹城市",
+                "tags": "zouchengshi,邹城市",
+                "cityid": 20368
+            },
+            {
+                "name": "郑州市",
+                "tags": "zhengzhoushi,郑州市",
+                "cityid": 21388
+            },
+            {
+                "name": "周口市",
+                "tags": "zhoukoushi,周口市",
+                "cityid": 23589
+            },
+            {
+                "name": "驻马店市",
+                "tags": "zhumadianshi,驻马店市",
+                "cityid": 23818
+            },
+            {
+                "name": "诸市乡",
+                "tags": "zhushixiang,诸市乡",
+                "cityid": 23832
+            },
+            {
+                "name": "枝江市",
+                "tags": "zhijiangshi,枝江市",
+                "cityid": 24570
+            },
+            {
+                "name": "枣阳市",
+                "tags": "zaoyangshi,枣阳市",
+                "cityid": 24674
+            },
+            {
+                "name": "钟祥市",
+                "tags": "zhongxiangshi,钟祥市",
+                "cityid": 24794
+            },
+            {
+                "name": "株洲市",
+                "tags": "zhuzhoushi,株洲市",
+                "cityid": 25758
+            },
+            {
+                "name": "洲市乡",
+                "tags": "zhoushixiang,洲市乡",
+                "cityid": 26104
+            },
+            {
+                "name": "在市苗族乡",
+                "tags": "zaishimiaozuxiang,在市苗族乡",
+                "cityid": 26409
+            },
+            {
+                "name": "张家界市",
+                "tags": "zhangjiajieshi,张家界市",
+                "cityid": 26925
+            },
+            {
+                "name": "资兴市",
+                "tags": "zixingshi,资兴市",
+                "cityid": 27389
+            },
+            {
+                "name": "知市坪乡",
+                "tags": "zhishipingxiang,知市坪乡",
+                "cityid": 27624
+            },
+            {
+                "name": "增城市",
+                "tags": "zengchengshi,增城市",
+                "cityid": 28399
+            },
+            {
+                "name": "珠海市",
+                "tags": "zhuhaishi,珠海市",
+                "cityid": 28626
+            },
+            {
+                "name": "湛江市",
+                "tags": "zhanjiangshi,湛江市",
+                "cityid": 28880
+            },
+            {
+                "name": "肇庆市",
+                "tags": "zhaoqingshi,肇庆市",
+                "cityid": 29159
+            },
+            {
+                "name": "肇庆市劳教所",
+                "tags": "zhaoqingshilaojiaosuo,肇庆市劳教所",
+                "cityid": 29177
+            },
+            {
+                "name": "中山市",
+                "tags": "zhongshanshi,中山市",
+                "cityid": 29890
+            },
+            {
+                "name": "重庆市",
+                "tags": "zhongqingshi,重庆市",
+                "cityid": 31929
+            },
+            {
+                "name": "自贡市",
+                "tags": "zigongshi,自贡市",
+                "cityid": 33344
+            },
+            {
+                "name": "资阳市",
+                "tags": "ziyangshi,资阳市",
+                "cityid": 36497
+            },
+            {
+                "name": "遵义市",
+                "tags": "zunyishi,遵义市",
+                "cityid": 38145
+            },
+            {
+                "name": "珠市乡",
+                "tags": "zhushixiang,珠市乡",
+                "cityid": 39059
+            },
+            {
+                "name": "昭通市",
+                "tags": "zhaotongshi,昭通市",
+                "cityid": 40004
+            },
+            {
+                "name": "张掖市",
+                "tags": "zhangyeshi,张掖市",
+                "cityid": 44265
+            },
+            {
+                "name": "中卫市",
+                "tags": "zhongweishi,中卫市",
+                "cityid": 45999
+            }
+        ]
+    }
+]
